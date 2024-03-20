@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T03:34:12.819Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="8XQW3fw0umOZNRAwzYLb" version="24.0.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-20T03:36:17.442Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="pnQhdJdOoUEbVIKcyDlO" version="24.0.7" type="github" pages="2">
   <diagram name="GCP Services" id="bA4V3ztZm5w0UQuVZ6Ml">
-    <mxGraphModel dx="1872" dy="1420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1702" dy="1291" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -109,7 +109,7 @@
           <mxGeometry x="470" y="20" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9j94ocUgOxRWuvGvQMa3-93" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="651" y="550" width="232" height="98" as="geometry" />
+          <mxGeometry x="651" y="550" width="247" height="128" as="geometry" />
         </mxCell>
         <mxCell id="9j94ocUgOxRWuvGvQMa3-36" value="CI/CD" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[1,1,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=default;gradientColor=none;shadow=0;dashed=1;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;whiteSpace=wrap;fillColor=#E1F5FE;" vertex="1" parent="9j94ocUgOxRWuvGvQMa3-93">
           <mxGeometry width="232" height="98" as="geometry" />
@@ -119,6 +119,12 @@
         </mxCell>
         <mxCell id="9j94ocUgOxRWuvGvQMa3-79" value="Cloud&#xa;Build" style="sketch=0;html=1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-6;fontSize=11;fontStyle=1;fontColor=#999999;shape=image;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnY9Imh0dHBzOi8vdmVjdGEuaW8vbmFubyIgd2lkdGg9IjE3LjMyOTk5OTkyMzcwNjA1NSIgaGVpZ2h0PSIxOS42MTAwMDA2MTAzNTE1NjIiIHZpZXdCb3g9IjAgMCAxNy4zMjk5OTk5MjM3MDYwNTUgMTkuNjEwMDAwNjEwMzUxNTYyIj4mI3hhOwk8c3R5bGUgdHlwZT0idGV4dC9jc3MiPiYjeGE7CS5zdDB7ZmlsbDojNDI4NWY0O30mI3hhOwkuc3Qxe2ZpbGw6IzY2OWRmNjt9JiN4YTsJLnN0MntmaWxsOiNhZWNiZmE7fSYjeGE7CTwvc3R5bGU+JiN4YTsJPHBhdGggY2xhc3M9InN0MCIgZD0iTTEyLjE4IDcuOThMMTEgNy4yOWwtMy41MiA2LjEgMS4xOC42OCAzLjUyLTIuMDN6IiBmaWxsPSIjNDI4NWY0Ii8+JiN4YTsJPHBhdGggY2xhc3M9InN0MSIgZD0iTTYuMzIgMTIuNzJsMy41My02LjA5LTEuMTktLjY5LTMuNTIgMi4wNHY0LjA2eiIgZmlsbD0iIzY2OWRmNiIvPiYjeGE7CTxwYXRoIGNsYXNzPSJzdDIiIGQ9Ik0zLjc1IDcuOThMMCA1LjgxdjkuMmw3Ljk3IDQuNnYtNC4zM2wtNC4yMi0yLjQ0em05LjEzLTEuMmwzLjc2LTIuMTdMOC42NiAwIC42OCA0LjYxbDMuNzYgMi4xNyA0LjIyLTIuNDR6TTkuMzUgMTkuNjFsNy45OC00LjZ2LTkuMmwtMy43NiAyLjE3djQuODZsLTQuMjIgMi40NHoiIGZpbGw9IiNhZWNiZmEiLz4mI3hhOzwvc3ZnPg==;" vertex="1" parent="9j94ocUgOxRWuvGvQMa3-93">
           <mxGeometry x="50" y="20" width="36" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="rqB8f8AUkunUcQF2Fatk-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-3/24/gitlab-128.png;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="9j94ocUgOxRWuvGvQMa3-93">
+          <mxGeometry x="159" y="7" width="61" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="rqB8f8AUkunUcQF2Fatk-2" value="&lt;font color=&quot;#808080&quot;&gt;GitLab Runners&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;" vertex="1" parent="9j94ocUgOxRWuvGvQMa3-93">
+          <mxGeometry x="159" y="62" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9j94ocUgOxRWuvGvQMa3-78" value="Data &amp;amp; AI" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[1,1,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=default;gradientColor=none;shadow=0;dashed=1;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;whiteSpace=wrap;fillColor=#E0F2F1;" vertex="1" parent="1">
           <mxGeometry x="910" y="550" width="170" height="198" as="geometry" />
@@ -159,8 +165,8 @@
         <mxCell id="9j94ocUgOxRWuvGvQMa3-37" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/infrastructure/monitoring_logging.svg;" vertex="1" parent="9j94ocUgOxRWuvGvQMa3-101">
           <mxGeometry x="39" y="260" width="38" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="9j94ocUgOxRWuvGvQMa3-38" value="CI/CD" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9j94ocUgOxRWuvGvQMa3-101">
-          <mxGeometry x="28" y="140" width="60" height="30" as="geometry" />
+        <mxCell id="9j94ocUgOxRWuvGvQMa3-38" value="CI/CD Control Plane" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9j94ocUgOxRWuvGvQMa3-101">
+          <mxGeometry x="15.5" y="140" width="132" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9j94ocUgOxRWuvGvQMa3-39" value="Monitor &amp;amp; Logging" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9j94ocUgOxRWuvGvQMa3-101">
           <mxGeometry x="19" y="230" width="125" height="30" as="geometry" />
